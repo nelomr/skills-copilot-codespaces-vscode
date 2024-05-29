@@ -1,4 +1,4 @@
-function skillsMemeber() {
+function skillsMember() {
   // Get the member data
   const member = getMemberData();
 
